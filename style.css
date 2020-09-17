@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Segoe UI', sans-serif;
-    background-image: url("paper.jpg");
+    background-image: url("images/paper.jpg");
     height: 100vh;
     cursor: url('../images/cursor.cur'), auto;
 }
@@ -25,7 +25,7 @@ html{
 .van {
     display: flex;
     flex-direction: column;
-    background-image: url("bridge2.jpg");
+    background-image: url("images/bridge2.jpg");
     background-size: cover;
 }
 
@@ -70,7 +70,7 @@ nav ul a {
 }
 
 #edison {
-    background-image: url("front.jpg");
+    background-image: url("images/front.jpg");
     height: 80vh;
     width: 94vw;
     background-size: cover;
@@ -136,7 +136,7 @@ section{
 /* Style this section */
 
 #grand-canyon {
-    background-image: url("grand.jpg");
+    background-image: url("images/grand.jpg");
     background-size: cover;
     border: 14px ridge #6a6a6d;
     margin-bottom: 20px;
@@ -234,7 +234,7 @@ section{
     text-align: left;
 }
 .contact {
-    background: url("contact.jpeg");
+    background: url("images/contact.jpeg");
     background-size: cover;
     border: 14px ridge #6a6a6d;
     margin: 20px 25px 20px 25px;
